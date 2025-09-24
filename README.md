@@ -31,10 +31,9 @@ Inheritance (TodoTask extends Task)
 Composition (TaskManager manages tasks list)
 
 ## 📸 Preview
-![alt text](https://github.com/jingaega/flutter_todolist/blob/main/ScreenShots/screenshot(1).png?raw=true)
-![alt text](https://github.com/jingaega/flutter_todolist/blob/main/ScreenShots/screenshot(2).png?raw=true)
-![alt text](https://github.com/jingaega/flutter_todolist/blob/main/ScreenShots/screenshot(3).png?raw=true)
-![alt text](https://github.com/jingaega/flutter_todolist/blob/main/ScreenShots/screenshot(4).png?raw=true)
-![alt text](https://github.com/jingaega/flutter_todolist/blob/main/ScreenShots/screenshot(5).png?raw=true)
+![alt text](https://github.com/jingaega/flutter_todolist/blob/main/ScreenShots/screenshot(2).png?raw=true)<br/>
+![alt text](https://github.com/jingaega/flutter_todolist/blob/main/ScreenShots/screenshot(3).png?raw=true)<br/>
+![alt text](https://github.com/jingaega/flutter_todolist/blob/main/ScreenShots/screenshot(4).png?raw=true)<br/>
+![alt text](https://github.com/jingaega/flutter_todolist/blob/main/ScreenShots/screenshot(5).png?raw=true)<br/>
 
 
