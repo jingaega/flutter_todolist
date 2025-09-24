@@ -29,3 +29,7 @@ Encapsulation (private fields + getters/setters)
 Inheritance (TodoTask extends Task)
 
 Composition (TaskManager manages tasks list)
+
+## 📸 Preview
+
+
